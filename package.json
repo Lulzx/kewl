@@ -1,0 +1,24 @@
+{
+  "name": "stunning-adventure",
+  "version": "1.0.0",
+  "description": "FTW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lulzx/stunning-adventure.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "quote"
+  ],
+  "author": "Lulzx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lulzx/stunning-adventure/issues"
+  },
+  "homepage": "https://github.com/lulzx/stunning-adventure"
+}
